@@ -1,0 +1,10 @@
+E:\日志分析工具\datalogo\datalogo\bin\Debug\datalogo.exe.config
+E:\日志分析工具\datalogo\datalogo\bin\Debug\datalogo.exe
+E:\日志分析工具\datalogo\datalogo\bin\Debug\datalogo.pdb
+E:\日志分析工具\datalogo\datalogo\obj\Debug\datalogo.csprojResolveAssemblyReference.cache
+E:\日志分析工具\datalogo\datalogo\obj\Debug\datalogo.Form1.resources
+E:\日志分析工具\datalogo\datalogo\obj\Debug\datalogo.Properties.Resources.resources
+E:\日志分析工具\datalogo\datalogo\obj\Debug\datalogo.csproj.GenerateResource.cache
+E:\日志分析工具\datalogo\datalogo\obj\Debug\datalogo.csproj.CoreCompileInputs.cache
+E:\日志分析工具\datalogo\datalogo\obj\Debug\datalogo.exe
+E:\日志分析工具\datalogo\datalogo\obj\Debug\datalogo.pdb
